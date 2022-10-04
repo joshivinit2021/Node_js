@@ -1,0 +1,15 @@
+{
+  "name": "vinit",
+  "version": "1.0.0",
+  "description": "its an amezing pakage",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "vinit",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}

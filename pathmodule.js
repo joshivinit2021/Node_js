@@ -1,0 +1,15 @@
+const path=require('path');
+const a1=path.basename('C:\Users\Shree\Desktop\js-info\js\nodejs\pathmodule.js');
+console.log(a1);
+const a2=path.dirname('C:\Users\Shree\Desktop\js-info\js\nodejs\pathmodule.js');
+console.log(a2);
+const a3=path.isAbsolute('C:\Users\Shree\Desktop\js-info\js\nodejs\pathmodule.js');
+console.log(a3);
+const a4=path.normalize('C:\Users\Shree\Desktop\js-info\js\nodejs\pathmodule.js');
+console.log(a4);
+const a5=path.toNamespacedPath('C:\Users\Shree\Desktop\js-info\js\nodejs\pathmodule.js');
+console.log(a5);
+const a6=path.posix;
+console.log(a6);
+const a7=path.sep;
+console.log(a7);

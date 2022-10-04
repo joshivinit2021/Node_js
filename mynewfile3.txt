@@ -1,0 +1,1 @@
+This is fs.writeFile() method replaces the specified file and content
